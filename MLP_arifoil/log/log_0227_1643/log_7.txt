@@ -1,0 +1,3 @@
+Step	Traning Cost	Test Accuracy
+0	48686.17	241.76337
+20000	35747.75	-2.9919195e-07
